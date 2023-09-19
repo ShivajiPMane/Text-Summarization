@@ -11,3 +11,11 @@
 6. Update the pipeline
 7. Update the main.py
 8. Update the app.py
+
+
+## step by step "Components"
+
+1. Data Ingestion       : download and extract the data
+2. Data Validation      : validate the data file type      
+3. Data Transformation  : converting the examples into the features
+4. Model Trainer 
